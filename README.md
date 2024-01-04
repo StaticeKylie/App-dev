@@ -1,9 +1,4 @@
-![image](https://github.com/StaticeKylie/App-dev/assets/101376941/bd2a4265-e932-4f47-855b-2a98fc4ba4da)# App-dev
-My first repository
-
-# # SERIES REVIEW
-
-```
+## SERIES REVIEW
 
 ### Descendants of the Sun
 ### 2016 ‧ Drama
@@ -13,7 +8,8 @@ __*Descendants of the Sun*__ is a 2016 South Korean television series starring *
  #### About 
 A love story between *Captain Yoo Shi Jin* , Korean Special Forces, and *Doctor Kang Mo Yeon*, surgeon at Haesung Hospital. Together they face danger in a war-torn country.
 
-### Soundtracks 
+**Soundtracks**
+```
 1. Always
 2. Everytime
 3. This Love
@@ -24,6 +20,4 @@ A love story between *Captain Yoo Shi Jin* , Korean Special Forces, and *Doctor 
 8. 태양의 후예
 9. The Wind Beneath Your Wings
 10. How Can I Love You
-
-
 ```
